@@ -86,7 +86,7 @@ body.blurred > * {
 .lightbox__close {
     right: 1vw;
     top: 1vw;
-    background-image: url("../img/graphic/close.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/SummerLeeB/summer2021/img/graphic/close.png");
 	 background-size: cover;
 	 background-position: center;
 	 background-repeat: no-repeat;
@@ -99,7 +99,7 @@ body.blurred > * {
 
 .lightbox__nav--next {
     right: 1vw;
-    background-image: url("../img/graphic/next.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/SummerLeeB/summer2021/img/graphic/next.png");
 	 background-size: cover;
 	 background-position: center;
 	 background-repeat: no-repeat;
@@ -107,7 +107,7 @@ body.blurred > * {
 
 .lightbox__nav--prev {
     left: 1vw;
-    background-image: url("../img/graphic/prev.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/SummerLeeB/summer2021/img/graphic/prev.png");
 	 background-size: cover;
 	 background-position: center;
 	 background-repeat: no-repeat;
